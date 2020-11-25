@@ -1,1 +1,1 @@
-# Wallpaper-engine-Text-Rain-RGB
+# Text-Rain-Canvas
